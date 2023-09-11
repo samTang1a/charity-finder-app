@@ -1,4 +1,3 @@
-import Search from "../components/Search"
 import CharityList from "../components/CharityList"
 import Charity from "../charity";
 

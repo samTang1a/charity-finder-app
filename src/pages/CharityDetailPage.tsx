@@ -1,5 +1,3 @@
-// import Search from "../components/Search"
-// import CharityDetail from "../components/CharityDetail"
 import Charity from "../charity"
 import { useParams } from "react-router-dom";
 

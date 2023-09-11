@@ -1,4 +1,3 @@
-import FavoriteCharities from "../components/FavoriteCharities"
 import Charity from "../charity"
 import CharityList from "../components/CharityList";
 
